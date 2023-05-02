@@ -22,11 +22,14 @@ A real-time chat application built with Flutter and Firebase, featuring user aut
 
 1. Clone this repository.
 
+`git clone https://github.com/yashdagar/Flutter-Chat-App-with-Firebase.git`
+
 2. Create a new Firebase project and configure it for iOS and/or Android platforms. See [these instructions](https://firebase.google.com/docs/flutter/setup).
 
 3. Add your Firebase configuration files to the project.
 
 4. Run the app.
+
 `flutter run`
 
 ## 🤝 Contributing
